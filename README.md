@@ -1,4 +1,4 @@
-# Análisis de Riesgo Operativo y Continuidad: Mantenimiento TGM 2025
+# Análisis de Riesgo Operativo y Continuidad: Mantenimiento TGM 2025 en Dispositivos de Seguridad. 
 
 Este proyecto demuestra el impacto de la ciencia de datos en la **continuidad operativa** de Talleres Gráficos de México (TGM). A través de un análisis exhaustivo de los programas de mantenimiento, se transformaron registros administrativos en una hoja de ruta estratégica para mitigar riesgos y optimizar la infraestructura crítica.
 
